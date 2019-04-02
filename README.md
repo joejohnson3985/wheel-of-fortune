@@ -18,7 +18,7 @@ npm start
 Open http://localhost:8080/
 
 ## Application Screen Shots
-![Game start screen for Wheel of Fortune](https://github.com/joejohnson3985/wheel-of-fortune/blob/master/src/images/start-game.png)
+![Game start screen for Wheel of Fortune]<img width="1672" alt="Screen Shot 2019-04-02 at 9 14 29 AM" src="https://user-images.githubusercontent.com/34406483/55414549-90ecc680-5528-11e9-8a78-85fa5c9f6126.png">
 ![Game board screen for Wheel of Fortune](https://github.com/joejohnson3985/wheel-of-fortune/blob/master/src/images/game-board.png)
 
       
